@@ -74,40 +74,7 @@
 			2. FreDSNet
 				1. [https://github.com/sbrunoberenguel/fredsnet](https://github.com/sbrunoberenguel/fredsnet "https://github.com/sbrunoberenguel/fredsnet")
 				2. [https://arxiv.org/pdf/2210.01595v1.pdf](https://arxiv.org/pdf/2210.01595v1.pdf "https://arxiv.org/pdf/2210.01595v1.pdf")
-	2. Speech
-		1. Whisper
-			1. https://huggingface.co/spaces/sanchit-gandhi/whisper-jax
 3. **Novel Algorithms for enhancing AI**
 	1. Self-supervised learning
 		1. https://arxiv.org/pdf/2304.12210.pdf
-	2. Neural Fields
-		1. https://sites.google.com/berkeley.edu/nerf-tutorial
-		2. https://arxiv.org/pdf/2111.11426.pdf
-		3. https://arxiv.org/pdf/2210.00379.pdf
-		4. https://neuralfields.cs.brown.edu/cvpr22.html
 
-4. **Generative AI and its implications**
-	1. Large Language Models
-		1. https://cims.nyu.edu/~sbowman/eightthings.pdf
-		2. https://arxiv.org/pdf/2303.12712.pdf
-		3. https://sebastianraschka.com/blog/2023/llm-reading-list.html?s=31
-	2. Transformers
-		1. https://arxiv.org/abs/2302.07730
-		2. https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM
-5. **Science in AI and AI in Science**
-	1. Healthcare application
-		1. https://huggingface.co/spaces/suppfunterpno/Heart-Failure-Death-Prediction
-	2. Protein folding
-		1. https://esmatlas.com/resources/fold/result?fasta_header=%3EHallucinated%20protein%20HALC1_878&sequence=MSGMKKLYEYTVTTLDEFLEKLKEFILNTSKDKIYKLTITNPKLIKDIGKAIAKAAEIADVDPKEIEEMIKAVEENELTKLVITIEQTDDKYVIKVELENEDGLVHSFEIYFKNKEEMEKFLELLEKLISKLSGS
-	3. Physics informed neural networks
-		1. https://docs.nvidia.com/deeplearning/modulus/modulus-sym/user_guide/theory/architectures.html#deeponet
-		2. https://arxiv.org/pdf/2304.00567.pdf
-		3. https://arxiv.org/pdf/2207.05748.pdf
-		4. https://arxiv.org/pdf/2111.13587.pdf
-		5. https://arxiv.org/pdf/2304.13799.pdf
-		6. https://developer.nvidia.com/modulus?ncid=so-link-410285-vt25#cid=hpc03_so-link_en-us
-6. **Trends in AI**
-	1. https://www.capgemini.com/wp-content/uploads/2017/09/five_senses_pov.pdf
-	2. https://aiindex.stanford.edu/wp-content/uploads/2021/11/2021-AI-Index-Report_Master.pdf
-	3. https://hai.stanford.edu/sites/default/files/ai_index_2019_report.pdf
-	4. https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf
