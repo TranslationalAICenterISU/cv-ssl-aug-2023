@@ -1,5 +1,5 @@
-
 # Zero Shot Object Detection with Grounding DINO
+
 Grounding DINO can detect arbitrary objects with human inputs such as category names or referring expressions. The key solution of open-set object detection is introducing language to a closed-set detector DINO for open-set concept generalization.
 
 Check out:

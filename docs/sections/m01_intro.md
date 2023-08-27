@@ -1,4 +1,5 @@
-Download all the notebooks for the following sections to use with Google Colab:
+# Download all the notebooks for the following sections to use with Google Colab:
+
 - [https://github.com/TranslationalAICenterISU/cv-ssl-aug-2023/blob/main/notebooks/notebooks.zip](https://github.com/TranslationalAICenterISU/cv-ssl-aug-2023/blob/main/notebooks/notebooks.zip)
 
 # Introductory Exercises with YOLOv8
