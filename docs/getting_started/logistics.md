@@ -1,7 +1,7 @@
 # Logistics
 
-**Date**: April 28th, 2023
+**Date**: Aug 28th, Sept. 4, 11, and 18, 2023
 <br>
-**Time**: 1 PM – 5 PM
+**Time**: 4 PM – 6 PM
 <br>
-**Venue**: Hoover 2055
+**Venue**: Zoom

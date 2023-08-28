@@ -1,11 +1,11 @@
 docs_dir: docs/
-repo_name: 'TranslationalAICenterISU/aitrends2023'
-repo_url: 'https://github.com/TranslationalAICenterISU/aitrends2023'
+repo_name: 'TranslationalAICenterISU/cv-ssl-aug-2023'
+repo_url: 'https://github.com/TranslationalAICenterISU/cv-ssl-aug-2023'
 
-site_name: 'Demystifying Trending AI Techniques'
-site_description: 'Documentation for tutorial on - A Deep Dive into Deep Learning Algorithms and Architectures'
+site_name: 'ADLRG Mini-Course: Computer Vision & Self-supervised Learning'
+site_description: 'Documentation for mini-course on - Computer Vision & Self-supervised Learning'
 site_author: 'TrAC Team, CyVerse, & Midwest Big Data Summer School'
-site_url: 'https://translationalaicenterisu.github.io/aitrends2023'
+site_url: 'https://translationalaicenterisu.github.io/cv-ssl-aug-2023/'
 
 edit_uri: edit/mkdocs/docs
 
