@@ -1,22 +1,22 @@
 <!-- <h2 style="text-align: center;">Welcome to TrAC Training on </h2>
 <h1 style="text-align: center;">Demystifying Trending AI Techniques</h1> -->
 
-# Welcome to the TrAC Training on
-# Demystifying Trending AI Techniques
+# Welcome to the TrAC ADLRG Mini-Course on
+# Computer Vision & Self-supervised Learning
 
 <br>
 <p align="center">
   <img width="500" src="assets/logo.png">
 </p>
 
-Hi all! welcome to TrAC training on **Demystifying Trending AI Techniques**. 
+Hi all! welcome to TrAC ADLRG Mini-Course on **Computer Vision & Self-supervised Learning**. 
 <br>
 <br>
-**Date**: April 28th, 2023
+**Date**: Aug 28th, Sept. 4, 11, and 18, 2023
 <br>
-**Time**: 1 PM – 5 PM
+**Time**: 4 PM – 6 PM
 <br>
-**Venue**: Hoover 2055
+**Venue**: Zoom
 ## Before you get started, please read our:
 
 1. [:material-scale-balance: Code of Conduct](./getting_started/code_conduct.md)
