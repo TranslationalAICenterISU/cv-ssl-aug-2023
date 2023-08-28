@@ -1,6 +1,6 @@
 # Monoocular Depth Estimation with MiDaS
 
-Monocolular depth estiamtion estiamtes the depth in an image using only a single RGB camera as input.
+Monocular depth estimation estimates the depth in an image using only a single RGB camera as input.
 
 Check out:
 
