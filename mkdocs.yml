@@ -23,14 +23,13 @@ nav:
     - 'Schedule': getting_started/schedule.md
     - 'Resources': sections/resources.md
   - 'Sections':
-    - '1. Introduction': sections/m01_intro.md
-    - '2. Basics of AI': sections/m02_basics.md
-    - '3. Multiple Modalities of Data': sections/m03_multimod.md
-    - '4. Novel Algorithms': sections/m04_novelalgo.md
-    - '5. Generative AI': sections/m05_generative.md
-    - '6. AI in Science & Science in AI': sections/m06_aiscience.md
-    - '7. Trends in AI': sections/m07_trends.md
-    - '8. Concluding Remarks': sections/m08_conclusions.md
+    - '1. Introduction to CV': sections/m01_intro.md
+    - '2. Object Tracking': sections/m02_tracking.md
+    - '3. CLIP': sections/m03_clip.md
+    - '4. Grounding Dino': sections/m04_grounding_dino.md
+    - '5. Fast SAM': sections/m05_fast_sam.md
+    - '6. Monodepth': sections/m06_monodepth.md
+    - '7. Resources': sections/resources.md
 
 # JavaScript for Intercom Widget
 extra_javascript:
