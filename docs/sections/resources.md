@@ -74,6 +74,16 @@
 			2. FreDSNet
 				1. [https://github.com/sbrunoberenguel/fredsnet](https://github.com/sbrunoberenguel/fredsnet "https://github.com/sbrunoberenguel/fredsnet")
 				2. [https://arxiv.org/pdf/2210.01595v1.pdf](https://arxiv.org/pdf/2210.01595v1.pdf "https://arxiv.org/pdf/2210.01595v1.pdf")
+		9. Many more notebooks for various computer vision tasks
+			1. Roboflow Notebooks
+				1. [https://github.com/roboflow/notebooks](https://github.com/roboflow/notebooks)
+			2. OpenVINO Notebooks
+				1. [https://github.com/openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)
+			3. Microsoft Computer Vision Recipes
+				1. [https://github.com/microsoft/computervision-recipes/tree/staging/scenarios](https://github.com/microsoft/computervision-recipes/tree/staging/scenarios)
+		10. Lots of practice exercises
+			1. Udacity's Computer Vision Nanodegree program
+				1. [https://github.com/udacity/CVND_Exercises](https://github.com/udacity/CVND_Exercises)
 3. **Novel Algorithms for enhancing AI**
 	1. Self-supervised learning
 		1. https://arxiv.org/pdf/2304.12210.pdf
